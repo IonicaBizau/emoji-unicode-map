@@ -1,0 +1,34 @@
+{
+  "name": "emoji-unicode-map",
+  "version": "1.0.0",
+  "description": "Unicode to name emoji mapping.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "emoji-name-map": "^1.0.0",
+    "iterate-object": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "name",
+    "unicode",
+    "map",
+    "conversion"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/emoji-unicode-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emoji-unicode-map/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emoji-unicode-map#readme"
+}
