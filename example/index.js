@@ -10,4 +10,5 @@ console.log(unicode.emoji);
 //   '😬': 'grimacing',
 //   '😁': 'grin',
 //   '😂': 'joy',
+//   ...
 // }

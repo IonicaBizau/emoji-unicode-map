@@ -23,6 +23,7 @@ console.log(unicode.emoji);
 //   '😬': 'grimacing',
 //   '😁': 'grin',
 //   '😂': 'joy',
+//   ...
 // }
 ```
 
@@ -42,6 +43,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`emoji-chars`](https://github.com/IonicaBizau/emoji-chars#readme)
 
 ## License
 
