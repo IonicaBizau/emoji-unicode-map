@@ -1,14 +1,18 @@
+
 # emoji-unicode-map [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-unicode-map.svg)](https://www.npmjs.com/package/emoji-unicode-map) [![Downloads](https://img.shields.io/npm/dt/emoji-unicode-map.svg)](https://www.npmjs.com/package/emoji-unicode-map) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Unicode to name emoji mapping.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save emoji-unicode-map
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const unicode = require("emoji-unicode-map");
@@ -27,7 +31,8 @@ console.log(unicode.emoji);
 // }
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `get(char)`
 Gets the emoji name, by providing the character.
@@ -38,15 +43,19 @@ Gets the emoji name, by providing the character.
 #### Return
 - **String** The emoji name.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`emoji-chars`](https://github.com/IonicaBizau/emoji-chars#readme)
 
-## License
+ - [`emoji-chars`](https://github.com/IonicaBizau/emoji-chars#readme)—Get the emoji chars as array.
+ - [`emoji-dictionary`](https://github.com/IonicaBizau/emoji-dictionary#readme)—Convert emoji names in unicode characters and vice versa.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
