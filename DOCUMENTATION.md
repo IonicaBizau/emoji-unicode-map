@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Gets the emoji name, by providing the character.
 
 #### Params
+
 - **String** `char`: The emoji character.
 
 #### Return
